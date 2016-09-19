@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IntentFilterTest</string>
+    <string name="title_activity_activityto_start">ActivitytoStart</string>
+</resources>
